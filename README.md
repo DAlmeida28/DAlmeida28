@@ -6,4 +6,6 @@
 - 🛠 I'm a lifelong technologist. I have been studying technology and its various applications throughout my life, picking up books on Linux, Computer Security, and Networking. I finally found a time to pivot my career into something that has truly interested me. 
 - 📫 How to reach me: email, or LinkedIn!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I also make electronic music on the side! 
+- ⚡ Fun fact: I also make electronic music on the side!
+
+![img](https://www.codewars.com/users/DAlmeida28/badges/micro)
