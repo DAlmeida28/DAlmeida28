@@ -1,4 +1,4 @@
-## Hello, and thank you for checking out my page :)
+## Hello, and thank you for checking out my profile.
 
 - 🔭 Completed my first fullstack app with React, Node.js, Express, Postgress now working on completing my first Dioxus FullStack App.  
 - 🌱 I’m currently working on my first solo rust project, a commandline based task management application. 
