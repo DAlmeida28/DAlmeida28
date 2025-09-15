@@ -1,9 +1,9 @@
 ## Hello, and thank you for checking out my profile.
 
 - 🔭 Completed my first fullstack app with React, Node.js, Express, Postgress now working on completing my first Dioxus FullStack App.  
-- 🌱 I’m currently working on my first solo rust project, a commandline based task management application. 
+- 🌱 I’m currently working on my my embedded Rust development. I have completed my first blinky project. 
 - 👯 I’m looking to collaborate on any rust project or FullStack project using React, Node.js, Express, PostgreSQL, Dioxus.
-- 🛠 I'm a lifelong technologist. I have been studying technology and its various applications throughout my life, picking up books on Linux, Computer Security, and Networking. I finally found a time to pivot my career into something that has truly interested me. 
+- 🛠 I'm a lifelong technologist. I have been studying technology and its various applications throughout my life, picking up books on Linux, Computer Security, and Networking. I finally found a time to pivot my career into something that has truly interested me.
 - 📫 How to reach me: email, or LinkedIn!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also make electronic music on the side!
